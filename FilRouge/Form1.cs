@@ -285,5 +285,6 @@ namespace FilRouge
             // Si il n'y a plus de jaunes, la partie se termine.
             if (bytJaunes == 0)
                 finDePartie();
-        }                                        // Méthode qui vérifie si l'on peut encore jouer
+        }
+    }                                        // Méthode qui vérifie si l'on peut encore jouer
 }
