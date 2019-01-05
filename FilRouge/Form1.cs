@@ -21,6 +21,9 @@
 **    la grille avant de ne plus pouvoir jouer                               **
 **                                                                           **
 ******************************************************************************/
+
+// MODIFIÉ //
+
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -283,5 +286,4 @@ namespace FilRouge
             if (bytJaunes == 0)
                 finDePartie();
         }                                        // Méthode qui vérifie si l'on peut encore jouer
-    }
 }
